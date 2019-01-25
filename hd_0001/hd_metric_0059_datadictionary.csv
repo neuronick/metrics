@@ -1,0 +1,8 @@
+project_id;Project ID;String;Project code, as indicated in the planning sheet
+project_name;Project Name;String;Project name, as indicated in the planning sheet
+sub_project_id;SubProject ID;String;SubProject code, as indicated in the planning sheet
+dcd_name;Data Collection Name;String;The name of the register as defined in salesforce
+dataprovider_id;Dataprovider Identification Value;String;The unique healthdata-id of the organization
+dataprovider_name;Data Provider Name;String;Name of the organization
+status;Status of a registration;String;The status of a registration
+count;Count;Int;The count of the metric
